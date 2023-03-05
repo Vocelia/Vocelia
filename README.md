@@ -1,16 +1,38 @@
-### Hi there 👋
+## About Me
+![Vocelia's Profile Views Counter](https://komarev.com/ghpvc/?username=vocelia&label=Profile%20views&color=0e75b6&style=flat)
+<div style="text-align:center">
+  <h3>With paint and brush, I compose,</h3>
+  <h3>Poems filling the canvas, I suppose.</h3>
+  <h3>With keyboard and mouse, I code,</h3>
+  <h3>Programs obscuring the real world, I note.</h3>
 
-<!--
-**Vocelia/Vocelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3>But with C, I craft the unseen,</h3>
+  <h3>Building systems to run like a machine.</h3>
+  <h3>Low-level control, a language so pure,</h3>
+  <h3>A world of possibilities, and much more.</h3>
 
-Here are some ideas to get you started:
+  <h3>For each line I write, a new creation blooms,</h3>
+  <h3>Functions and pointers, my ultimate boons.</h3>
+  <h3>In this world of code, I hide underneath my cloak,</h3>
+  <h3>In pursuit of shaping the unseen with every keystroke.</h3>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social Media
+[![Github](https://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/vocelia)
+[![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&logo=discord&style=for-the-badge&logoColor=white)](https://discord.com/users/939141111941840926)
+[![AniList](https://img.shields.io/badge/anilist-%23000FFF.svg?&logo=anilist&style=for-the-badge&logoColor=white)](https://anilist.co/user/vocelia)
+
+## Achievements
+![Vocelia's Github Statistics](https://github-readme-stats.vercel.app/api?username=vocelia&show_icons=true&theme=radical)
+![Vocelia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vocelia&layout=compact&theme=radical)
+
+## Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+## Tools
+![Vocelia's IDE](https://img.shields.io/badge/VsCode-%230078D7.svg?&logo=vs-code&style=for-the-badge&logoColor=white)
+![Vocelia's OS](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
