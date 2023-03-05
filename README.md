@@ -1,20 +1,22 @@
 ## About Me
 ![Vocelia's Profile Views Counter](https://komarev.com/ghpvc/?username=vocelia&label=Profile%20views&color=0e75b6&style=flat)
 
-<p align="center">With paint and brush, I compose,</p>
-  <p align="center">Poems filling the canvas, I suppose.</p>
-  <p align="center">With keyboard and mouse, I code,</p>
-  <p align="center">Programs obscuring the real world, I note.</p>
+<sub>
+With paint and brush, I compose,
+Poems filling the canvas, I suppose.
+With keyboard and mouse, I code,
+Programs obscuring the real world, I note.
 
-<p align="center">But with C, I craft the unseen,</p>
-  <p align="center">Building systems to run like a machine.</p>
-  <p align="center">Low-level control, a language so pure,</p>
-  <p align="center">A world of possibilities, and much more.</p>
+But with C, I craft the unseen,
+Building systems to run like a machine.
+Low-level control, a language so pure,
+A world of possibilities, and much more.
 
-<p align="center">For each line I write, a new creation blooms,</p>
-  <p align="center">Functions and pointers, my ultimate boons.</p>
-  <p align="center">In this world of code, I hide underneath my cloak,</p>
-  <p align="center">In pursuit of shaping the unseen with every keystroke.</p>
+For each line I write, a new creation blooms,
+Functions and pointers, my ultimate boons.
+In this world of code, I hide underneath my cloak,
+In pursuit of shaping the unseen with every keystroke.
+</sub>
 
 ## Social Media
 [![Github](https://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/vocelia)
