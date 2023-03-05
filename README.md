@@ -1,7 +1,7 @@
 ## About Me
 ![Vocelia's Profile Views Counter](https://komarev.com/ghpvc/?username=vocelia&label=Profile%20views&color=0e75b6&style=flat)
 
-<sub>
+<p align="center">
 With paint and brush, I compose,
 Poems filling the canvas, I suppose.
 With keyboard and mouse, I code,
@@ -16,7 +16,7 @@ For each line I write, a new creation blooms,
 Functions and pointers, my ultimate boons.
 In this world of code, I hide underneath my cloak,
 In pursuit of shaping the unseen with every keystroke.
-</sub>
+</p>
 
 ## Social Media
 [![Github](https://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/vocelia)
