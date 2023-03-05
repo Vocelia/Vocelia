@@ -1,21 +1,20 @@
 ## About Me
 ![Vocelia's Profile Views Counter](https://komarev.com/ghpvc/?username=vocelia&label=Profile%20views&color=0e75b6&style=flat)
-<div style="text-align:center">
-  <h3>With paint and brush, I compose,</h3>
-  <h3>Poems filling the canvas, I suppose.</h3>
-  <h3>With keyboard and mouse, I code,</h3>
-  <h3>Programs obscuring the real world, I note.</h3>
 
-  <h3>But with C, I craft the unseen,</h3>
-  <h3>Building systems to run like a machine.</h3>
-  <h3>Low-level control, a language so pure,</h3>
-  <h3>A world of possibilities, and much more.</h3>
+<p align="center">With paint and brush, I compose,</p>
+<p align="center">Poems filling the canvas, I suppose.</p>
+<p align="center">With keyboard and mouse, I code,</p>
+<p align="center">Programs obscuring the real world, I note.</p>
 
-  <h3>For each line I write, a new creation blooms,</h3>
-  <h3>Functions and pointers, my ultimate boons.</h3>
-  <h3>In this world of code, I hide underneath my cloak,</h3>
-  <h3>In pursuit of shaping the unseen with every keystroke.</h3>
-</div>
+<p align="center">But with C, I craft the unseen,</p>
+<p align="center">Building systems to run like a machine.</p>
+<p align="center">Low-level control, a language so pure,</p>
+<p align="center">A world of possibilities, and much more.</p>
+
+<p align="center">For each line I write, a new creation blooms,</p>
+<p align="center">Functions and pointers, my ultimate boons.</p>
+<p align="center">In this world of code, I hide underneath my cloak,</p>
+<p align="center">In pursuit of shaping the unseen with every keystroke.</p>
 
 ## Social Media
 [![Github](https://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/vocelia)
