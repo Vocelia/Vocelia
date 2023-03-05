@@ -2,19 +2,19 @@
 ![Vocelia's Profile Views Counter](https://komarev.com/ghpvc/?username=vocelia&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="center">
-With paint and brush, I compose,
-Poems filling the canvas, I suppose.
-With keyboard and mouse, I code,
+With paint and brush, I compose,<br/>
+Poems filling the canvas, I suppose.<br/>
+With keyboard and mouse, I code,<br/>
 Programs obscuring the real world, I note.
 
-But with C, I craft the unseen,
-Building systems to run like a machine.
-Low-level control, a language so pure,
+But with C, I craft the unseen,<br/>
+Building systems to run like a machine.<br/>
+Low-level control, a language so pure,<br/>
 A world of possibilities, and much more.
 
-For each line I write, a new creation blooms,
-Functions and pointers, my ultimate boons.
-In this world of code, I hide underneath my cloak,
+For each line I write, a new creation blooms,<br/>
+Functions and pointers, my ultimate boons.<br/>
+In this world of code, I hide underneath my cloak,<br/>
 In pursuit of shaping the unseen with every keystroke.
 </p>
 
