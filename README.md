@@ -6,12 +6,16 @@ With paint and brush, I compose,<br/>
 Poems filling the canvas, I suppose.<br/>
 With keyboard and mouse, I code,<br/>
 Programs obscuring the real world, I note.
+</p>
 
+<p align="center">
 But with C, I craft the unseen,<br/>
 Building systems to run like a machine.<br/>
 Low-level control, a language so pure,<br/>
 A world of possibilities, and much more.
+</p>
 
+<p align="center">
 For each line I write, a new creation blooms,<br/>
 Functions and pointers, my ultimate boons.<br/>
 In this world of code, I hide underneath my cloak,<br/>
