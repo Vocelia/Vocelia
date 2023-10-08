@@ -2,24 +2,31 @@
 ![Vocelia's Profile Views Counter](https://komarev.com/ghpvc/?username=vocelia&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="center">
-With paint and brush, I compose,<br/>
-Poems filling the canvas, I suppose.<br/>
-With keyboard and mouse, I code,<br/>
-Programs obscuring the real world, I note.
+First line, second line, they write, <br/>
+That meter and alliteration rhyme <br/>
+Allegory verse, metaphorical prose, <br/>
+A poet's path, from words to woes
 </p>
 
 <p align="center">
-But with C, I craft the unseen,<br/>
-Building systems to run like a machine.<br/>
-Low-level control, a language so pure,<br/>
-A world of possibilities, and much more.
+Cryptic words and formats eccentric, <br/>
+Syntax, code, a symphony of logic <br/>
+Memory addresses bounce, in binary rows, <br/>
+A programmer's path, where knowledge flows
 </p>
 
 <p align="center">
-For each line I write, a new creation blooms,<br/>
-Functions and pointers, my ultimate boons.<br/>
-In this world of code, I hide underneath my cloak,<br/>
-In pursuit of shaping the unseen with every keystroke.
+Lines of code, like poetry they behold<br/>
+Crafting solutions, tales to be told <br/>
+With keyboard and mouse, they save the day <br/>
+With pencil and paper, creative in play
+</p>
+
+<p align="center">
+A programmer's habitat, a repository so grand, <br/>
+Facing pull requests, conquering bugs unplanned <br/>
+Code is poetry, a syntax so clean and stark, <br/>
+For every line of code is a stroke of art
 </p>
 
 ## Social Media
